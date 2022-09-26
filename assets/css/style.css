@@ -1,0 +1,11 @@
+main section p {
+
+    width: 200px;
+    padding: 25px;
+    background: #49bed3;
+    font-family: 'Titillium Web';
+    border: 25px solid;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
